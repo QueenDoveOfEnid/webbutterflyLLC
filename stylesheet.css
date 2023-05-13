@@ -1,0 +1,102 @@
+*{
+    background-color: #ffb6c1;
+    font-weight: 400px;
+    font-family:  'Alex Brush', cursive, alice, serif; 
+}
+header{
+    background-color:  #4B0082 ;
+    width: 100%;
+    height: 25px;
+}
+.topnav{
+ background-color:  #4B0082;
+overflow: hidden;
+position: fixed; 
+top: 0;
+width: 100%; 
+height: 100px;
+}
+.topnav a {
+float: right;
+color: #FFFAF0;
+text-align: center;
+padding: 25px 16px;
+text-decoration: none;
+font-size: 20px;
+font-family: 'Alex Brush', cursive, alice, serif;   
+display: block;
+background-color: #4B0082;
+
+}
+.topnav a.active {
+background-color:  #ffb6c1;
+
+color: #4B0082;
+}
+.main {
+margin-top: 30px; 
+}
+.logo{
+    width: 60px;
+    top: -2px;
+    position: fixed;
+    height:  60px;
+}
+main{
+    margin: 15px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
+    color:#4B0082;
+ }
+ h1{
+    font-family: 'Allura', cursive, playfair display, serif;
+    color: #4B0082; 
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+ }
+ p{
+    color: #4B0082;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-size: 32px;
+    font-family: 'Allura', cursive, playfair display, serif;
+ }
+ .about hr{
+    border: 25px grooved #4B0082;
+ } 
+ h2{
+    font-family: 'Alex Brush', cursive, alice, serif;
+    color: #4B0082; 
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+.me img{
+   align-items: center;
+    position: fixed;
+    box-shadow: 25px 25px #4B0082;
+ }
+ .service hr{
+    border: 15px grooved #292421;
+
+ }
+ .SaH p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+ .eao{
+    text-align: left;
+    width: 65%;
+ }
+ .rau{
+    text-align: right;
+    width: 25%;
+ }
+ .about hr{
+    border: 25px grooved #4B0082;
+ } 
+ h2{
+    font-family: 'Alex Brush', cursive, alice, serif;
+    color: #4B0082; 
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+} 
